@@ -1,5 +1,5 @@
 # school-schedule
-target: finish all levels (level1-3) go foward to success !
+Target: finish all levels (level1-3) go foward to success !
 
 
 <!DOCTYPE html>
