@@ -1,7 +1,7 @@
 # school-schedule
 target: finish all levels (level1-3)
 
-Day 1 
+
 <!DOCTYPE html>
 <html>
      <head>
@@ -90,5 +90,12 @@ Day 1
 
      </body>
 <html>
+#小金子的编程之旅ww
+##第一项项目-课表
+###～第一章～
+*遇到的问题
+-abc 
+*解决方法
+*学会了什么
 
 
