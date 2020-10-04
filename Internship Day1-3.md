@@ -93,7 +93,8 @@ Target: finish all levels (level1-3) go foward to success !
 - 保存好文件，再刷新，才可预览图片～
 
 
-###### Day 2
+Day 2
+==========
 
 <!DOCTYPE html>
 <html>
@@ -331,8 +332,8 @@ Target: finish all levels (level1-3) go foward to success !
      </body>
 </html>
 
- 第二章~
- ===========
+ *第二章*
+ 
 1. 遇到的问题
 - 卡在了制作表格框架，不知道该使用哪个标签开头才对
 - 卡在了css的格式里
