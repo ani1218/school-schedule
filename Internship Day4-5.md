@@ -9,78 +9,78 @@ target: finish all levels (level1-3)
          <title>school schedule 2020/10</title>
          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
          <style>
-             body {
-              width: 2000px;
-              height: 1500px;
-              background-image: url("blue.jpg");
-              background-attachment: fixed;
-             }
-             div {
+                body {
+                width: 2000px;
+                height: 1500px;
+                background-image: url("blue.jpg");
+                background-attachment: fixed;
+               }
+                div {
                  color:rgb(10, 119, 228);
-             }
-             .table {
+               }
+               .table {
                  align: 1;
                  text-align: center;
                  border: 1;
                  text-align: center;
                  color: rgba(0, 2, 1, 0.842);
-              }       
-              .a {
+               }       
+               .a {
                   color: pink;
-              } 
-              .b {
+               } 
+               .b {
                   color:orange;
-              }
-              .c{
+               }
+               .c{
                   color:rgb(240, 47, 230);
-              }
-              .d{
+               }
+               .d{
                   color:lightcoral;
-              }
-              .e{
+               }
+               .e{
                   color:rgb(137, 192, 247);
-              }
-              .f{
+               }
+               .f{
                   color:rgb(73, 212, 247);
-              }
-              .g{
+               }
+               .g{
                   color:mediumvioletred;
-              }
-              .h{
+               }
+               .h{
                   color:rgb(226, 226, 27);
-              }
-              .i{
+               }
+               .i{
                   color:rgb(167, 235, 33);
-              }
-              *{
+               }
+                *{
                   font-size:18px;
-              }
-              p{
+               }
+                p{
                   text-align: center;
                   font-size: 23px;
-              }
-              thead{
+               }
+                thead{
                   text-decoration: underline;
                   font-size: larger;
-             }
-              *{
+               }
+                *{
                  margin: 5;
                  padding: 5;
                  text-decoration: none; 
                  font-family: 'Microsoft YaHei', Arial, Helvetica, sans-serif;
-             }
-               header{
+               }
+                 header{
                     height: 75px;
                     background: #bfb9f0;
-             }
-               .hust-logo{
+               }
+                .hust-logo{
                   max-width: 1000px;
                   padding: 0 5px;
                   margin-left: 10px;
                   margin-right: 50px;
                   border-style: hidden;
-             } 
-               .menu{
+               } 
+                .menu{
                    float: left;
                    display: flex;
                    align-items: center;
@@ -113,7 +113,7 @@ target: finish all levels (level1-3)
                   display: none;
                   cursor: pointer;
                }
-                .menu.active{
+               .menu.active{
                    display: block;
                }
                .menu a{
