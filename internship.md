@@ -2,6 +2,7 @@
 Target: finish all levels (level1-3) go foward to success !
 
 Day1
+
 <!DOCTYPE html>
 <html>
      <head>
@@ -51,26 +52,6 @@ Day1
          <span>信息计术导论（IT中国）（计算机类（一）2006-2010、计算机本硕博2001班、计卓2001班） 一号报告厅 李瑞轩</span>
          <span></span>
          <span></span>
-         <span></span>
-         <span></span>
-         <span></span>
-         <span></span>
-         <span></span>
-         <span></span>
-         <span></span>
-         <span></span>
-         <span></span>
-         <span></span>
-         <span></span>
-         <span></span>
-         <span></span>
-         <span></span>
-         <span></span>
-         <span></span>
-         <span></span>
-         <span></span>
-         <span></span>
-         <span></span>
          <div>09:00-09:50</div>
          <div>10:10-11:00</div>
          <div>11:10-12:00</div>
@@ -85,15 +66,12 @@ Day1
          <span></span>
          <span></span>
          <span></span>
-
-         
-
-     </body>
+    </body>
 <html>
 
-#小金子的编程之旅ww
-##第一项项目-课表
-###～第一章～
+##小金子的编程之旅ww
+###第一项项目-课表
+####～第一章～
 1.遇到的问题()
 *之前在网上课程看觉得挺容易上手的，没想到万事开头难，原以为直接打代码在vscode里就行，原来还要装上插件才可執行(可以预览当时所打的代码结果显示在网页上)，可安了半天也不行
 *不知道怎么改文件的名字+不能预览网页
