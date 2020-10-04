@@ -144,12 +144,12 @@ target: finish all levels (level1-3)
 
                .menu a{
                     margin-left: 15px;
-                    color: rgb(250, 241, 241); /* 颜色 */
+                    color: rgb(250, 241, 241); 
                     font-weight: bold;
-                    font-size: 20px; /* 字号 */
+                    font-size: 20px;
                     padding: 12px 18px;
-                    border-radius: 4px; /* 圆角 */
-                    transition: .4s linear; /* 过渡时间 */
+                    border-radius: 4px;
+                    transition: .4s linear;
                 }
 
             
