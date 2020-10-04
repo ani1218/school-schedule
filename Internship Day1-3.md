@@ -331,7 +331,8 @@ Target: finish all levels (level1-3) go foward to success !
      </body>
 </html>
 
-####### 第二章~
+ 第二章~
+ ===========
 1. 遇到的问题
 - 卡在了制作表格框架，不知道该使用哪个标签开头才对
 - 卡在了css的格式里
@@ -348,7 +349,8 @@ Target: finish all levels (level1-3) go foward to success !
 - 时常留意打码的每一步，避免出错
 - 学会时间安排，尽量去平均兩者
 
-########Day3
+Day3
+------------
 
 <!DOCTYPE html>
 <html>
@@ -589,6 +591,6 @@ Target: finish all levels (level1-3) go foward to success !
      </body>
 </html>
 
-#########第三章～
+*第三章*
 1. 遇见的事，学到的东西
 - 今天打算弄个菜单，可以点开展示更多功能的那种互动，找到了一个影片，来学学怎么做。在学习的过程中，最开心的是今天发现了一个网站font awesome，是一个可以使用图标的网站，与一般不同的是他不用把图标下载下来，丢上到文件里再引用，而是直复制他所提供的图标名称或代码，就可以使用了，非常方便！但尽管如此方便，还是遇到问题，並不能展示在预览网页中，原来是在前面加fas才会显示！
